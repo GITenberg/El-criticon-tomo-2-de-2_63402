@@ -1,5 +1,8 @@
 _repo: El-criticon-tomo-2-de-2_63402
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63402-h/images/cover.jpg
 creator:
   author:
     agent_name: Gracián y Morales, Baltasar
@@ -28,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6831
     wikipedia: http://es.wikipedia.org/wiki/Julio_Cejador_y_Frauca
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63402#El-criticon-tomo-2-de-2
 gutenberg_issued: '2020-10-07'
 gutenberg_type: Text
 identifiers:
